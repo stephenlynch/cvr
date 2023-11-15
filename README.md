@@ -65,9 +65,6 @@ Note: There are still a few other things remaining to do for Leaflet that we won
 
 For further instructions on how to develop with JHipster, have a look at [Using JHipster in development][].
 
-## Building for production
-
-### Packaging as jar
 
 To build the final jar and optimize the cvr application for production, run:
 
