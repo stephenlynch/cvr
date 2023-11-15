@@ -20,7 +20,7 @@ You will only need to run this command when dependencies change in [package.json
 
 We use npm scripts and [Webpack][] as our build system.
 
-Run the following commands in two separate terminals to create a blissful development experience where your browser
+Run the following commands in two separate terminals to create a blissful development experience wheqre your browser
 auto-refreshes when files change on your hard drive.
 
     ./mvnw
@@ -65,9 +65,6 @@ Note: There are still a few other things remaining to do for Leaflet that we won
 
 For further instructions on how to develop with JHipster, have a look at [Using JHipster in development][].
 
-## Building for production
-
-### Packaging as jar
 
 To build the final jar and optimize the cvr application for production, run:
 
